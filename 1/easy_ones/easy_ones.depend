@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576436672 source:d:\100_days_of_code\1\easy_ones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

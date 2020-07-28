@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576533659 source:d:\100_days_of_code\1\distance_between_two_points\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
