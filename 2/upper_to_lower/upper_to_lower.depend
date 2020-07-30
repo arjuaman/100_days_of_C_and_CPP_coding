@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576534850 source:d:\100_days_of_code\2\upper_to_lower\main.c
+	<stdio.h>
+	<stdlib.h>
+

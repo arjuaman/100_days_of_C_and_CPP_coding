@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576534726 source:d:\100_days_of_code\2\ascii_value_of_character\main.c
+	<stdio.h>
+	<stdlib.h>
+
