@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576604343 source:d:\100_days_of_code\3\greatest_of_n_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

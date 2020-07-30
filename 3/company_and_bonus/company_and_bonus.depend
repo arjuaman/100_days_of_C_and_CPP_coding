@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576598880 source:d:\100_days_of_code\3\company_and_bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+
