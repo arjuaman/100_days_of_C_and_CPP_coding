@@ -5,6 +5,7 @@ I'd start by revising my knowledge of C programming, following the book "Program
 Purchase from: https://www.amazon.in/Programming-C-Reema-Thareja/dp/0199456143 </br>
 
 Day 1: Area of triangle; Euclidean distance between two points; </br>
+Day 2: ASCII value of character; Ternary operator; Upper to lower; </br>
 
 ## C++
 
