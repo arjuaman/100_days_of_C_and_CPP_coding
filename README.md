@@ -6,7 +6,8 @@ Purchase from: https://www.amazon.in/Programming-C-Reema-Thareja/dp/0199456143 <
 
 Day 1: Area of triangle; Euclidean distance between two points; </br>
 Day 2: ASCII value of character; Ternary operator; Upper to lower; </br>
-day 3: Company and bonus menu-driven; easy chapter exercises; greatest of n numbers; nested loops patterns; use of sizeof; </br>
+Day 3: Company and bonus menu-driven; easy chapter exercises; greatest of n numbers; nested loops patterns; use of sizeof; </br>
+Day 4: Decimal to octal conversion, Decimal to binary conversion, Reverse ofa number, Factorial of a number, Prime or Composite, No. of primes or composite, Patterns; </br>
 
 ## C++
 
