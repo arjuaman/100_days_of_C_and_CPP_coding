@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576691022 source:d:\100_days_of_code\4\number_of_primes\main.c
+	<stdio.h>
+	<stdlib.h>
+

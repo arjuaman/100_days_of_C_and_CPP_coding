@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576707023 source:d:\100_days_of_code\4\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
