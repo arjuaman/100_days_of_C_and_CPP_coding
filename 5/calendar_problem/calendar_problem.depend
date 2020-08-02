@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576784184 source:d:\100_days_of_code\5\calendar_problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
