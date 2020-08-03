@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577124832 source:d:\100_days_of_code\7\tower_of_hanoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
