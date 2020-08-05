@@ -11,6 +11,7 @@ Day 4: Decimal to octal conversion, Decimal to binary conversion, Reverse ofa nu
 Day 5: Armstrong number, Call by reference, call by value, GCD, Sum of series 1, Sum of series 2; </br> 
 Day 6: Function chapter starts; </br>
 Day 7: Exponents using recursion, fibonacci using recursion, gcd using recursion, factorial using recursion, Tower of Hanoi; </br>
+Day 8: Array operations, Array manipulation, interchange smallest and largest numbers, mean of n numbers in array; </br>
 
 ## C++
 
