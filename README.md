@@ -12,6 +12,7 @@ Day 5: Armstrong number, Call by reference, call by value, GCD, Sum of series 1,
 Day 6: Function chapter starts; </br>
 Day 7: Exponents using recursion, fibonacci using recursion, gcd using recursion, factorial using recursion, Tower of Hanoi; </br>
 Day 8: Array operations, Array manipulation, interchange smallest and largest numbers, mean of n numbers in array; </br>
+Day 9: Delete from middle of array, Delete from sorted array, Insert element in middle, Insert element in sorted array; </br>
 
 ## C++
 
