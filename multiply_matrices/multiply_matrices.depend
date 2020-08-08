@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577731179 source:d:\100_days_of_code\11\multiply_matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
