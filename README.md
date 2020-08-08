@@ -14,6 +14,7 @@ Day 7: Exponents using recursion, fibonacci using recursion, gcd using recursion
 Day 8: Array operations, Array manipulation, interchange smallest and largest numbers, mean of n numbers in array; </br>
 Day 9: Delete from middle of array, Delete from sorted array, Insert element in middle, Insert element in sorted array; </br>
 Day 10: Array using function to find smallest, Array merge, Binary Search, Merges orted arrays, Passing arrays to function; </br>
+Day 11: Interchange biggest and smallest in the array, Matrix multiplication, Pascal Triangle,Salesman menu driven program, Students exam marks menu driven program; </br>
 
 ## C++
 
