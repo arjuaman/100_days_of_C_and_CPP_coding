@@ -15,6 +15,7 @@ Day 8: Array operations, Array manipulation, interchange smallest and largest nu
 Day 9: Delete from middle of array, Delete from sorted array, Insert element in middle, Insert element in sorted array; </br>
 Day 10: Array using function to find smallest, Array merge, Binary Search, Merges orted arrays, Passing arrays to function; </br>
 Day 11: Interchange biggest and smallest in the array, Matrix multiplication, Pascal Triangle,Salesman menu driven program, Students exam marks menu driven program; </br>
+Day 12: 2D array to function, Menu Driven program for all matrix operations, Passing entire 2d array; </br>
 
 ## C++
 
