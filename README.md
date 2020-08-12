@@ -17,6 +17,7 @@ Day 10: Array using function to find smallest, Array merge, Binary Search, Merge
 Day 11: Interchange biggest and smallest in the array, Matrix multiplication, Pascal Triangle,Salesman menu driven program, Students exam marks menu driven program; </br>
 Day 12: 2D array to function, Menu Driven program for all matrix operations, Passing entire 2d array; </br>
 Day 13: Bubble Sort, Insertion Sort; </br>
+Day 14: Radix sort, Shell sort, Appending string to string, Reversing string, String functions, String operations etc; </br>
 
 ## C++
 
