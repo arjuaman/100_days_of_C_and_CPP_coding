@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578253753 source:d:\100_days_of_code\14\reverse_a_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

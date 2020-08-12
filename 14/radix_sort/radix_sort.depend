@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578167086 source:d:\100_days_of_code\14\radix_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

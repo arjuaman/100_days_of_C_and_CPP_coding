@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578252962 source:d:\100_days_of_code\14\string_compare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
