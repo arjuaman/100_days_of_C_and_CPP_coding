@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579289521 source:d:\100_days_of_code\15\strings_all_functions_menu_driven_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
