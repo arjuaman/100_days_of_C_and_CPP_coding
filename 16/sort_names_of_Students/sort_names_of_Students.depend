@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579326265 source:d:\100_days_of_code\16\sort_names_of_students\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

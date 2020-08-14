@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579355546 source:d:\100_days_of_code\16\read_sentence_count_words\main.c
+	<stdio.h>
+	<stdlib.h>
+
