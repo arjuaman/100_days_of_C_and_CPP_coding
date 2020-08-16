@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579692248 source:d:\100_days_of_code\17_pointers\mean_of_n_numbers_using_arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
