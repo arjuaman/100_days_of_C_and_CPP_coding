@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579717948 source:d:\100_days_of_code\19_pointers\read_n_print_text\main.c
+	<stdio.h>
+	<stdlib.h>
+
