@@ -20,8 +20,9 @@ Day 13: Bubble Sort, Insertion Sort; </br>
 Day 14: Radix sort, Shell sort, Appending string to string, Reversing string, String functions, String operations etc; </br>
 Day 15: Menu driven program for all string functions, Dummy, Insertion in string; </br>
 Day 16: Count words in sentences, read until newline encountered, sort names of students;</br>
-Day 17: POINTERS-> Area of circle, are of triangle, array pointers, biggest of three, largest of n numbers using arrays, mean of n numbers using arrays, pointers and arrays, print all even from n to m, read and display n integers, read prime and composite, sum and average of numbers from m to n;</br>
+Day 17: POINTERS-> Area of circle, area of triangle, array pointers, biggest of three, largest of n numbers using arrays, mean of n numbers using arrays, pointers and arrays, print all even from n to m, read and display n integers, read prime and composite, sum and average of numbers from m to n;</br>
 Day 18: Generic pointers, Null pointers, Pointer and functions; </br>
+Day 19: Using pointers-> Concatenate two strings, copy one character array to another, passing array to function, pointer and string, read and print text, reverse the string, copying from m'th position of one character array to another; </br>
 
 ## C++
 
