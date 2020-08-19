@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579814104 source:d:\100_days_of_code\20_pointers\3x3matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
