@@ -23,6 +23,7 @@ Day 16: Count words in sentences, read until newline encountered, sort names of 
 Day 17: POINTERS-> Area of circle, area of triangle, array pointers, biggest of three, largest of n numbers using arrays, mean of n numbers using arrays, pointers and arrays, print all even from n to m, read and display n integers, read prime and composite, sum and average of numbers from m to n;</br>
 Day 18: Generic pointers, Null pointers, Pointer and functions; </br>
 Day 19: Using pointers-> Concatenate two strings, copy one character array to another, passing array to function, pointer and string, read and print text, reverse the string, copying from m'th position of one character array to another; </br>
+Day 20: 3x3 Matrix, array of pointers, function pointer, pointer 2d array, pointer 3d array, pointer function; </br>
 
 ## C++
 
