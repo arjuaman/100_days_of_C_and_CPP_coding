@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580235721 source:d:\100_days_of_code\21_pointers\3d_array_dynamically_allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
