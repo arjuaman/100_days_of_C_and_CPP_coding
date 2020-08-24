@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580302090 source:d:\100_days_of_code\22_pointers\final_program_of_pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581683212 source:d:\100_days_of_code\22_pointers\exponents_using_struct_and_union\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
