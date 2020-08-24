@@ -25,6 +25,7 @@ Day 18: Generic pointers, Null pointers, Pointer and functions; </br>
 Day 19: Using pointers-> Concatenate two strings, copy one character array to another, passing array to function, pointer and string, read and print text, reverse the string, copying from m'th position of one character array to another; </br>
 Day 20: 3x3 Matrix, array of pointers, function pointer, pointer 2d array, pointer 3d array, pointer function; </br>
 Day 21: Malloc function, calloc function, realloc function, read & display values of integer array, pointers to pointers, passing function pointer as argument to function, function pointers, function pointers comparison, easy way of 2D array, dynamically allocating 2d array, dynamic memory, array of function pointers, 3D array dynamic allocation; </br>
+Day 22: Exponents using struct and union, Menu driven program of pointers using all functions; </br>
 
 ## C++
 
