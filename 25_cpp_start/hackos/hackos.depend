@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1584299209 source:d:\100_days_of_code\25_cpp_start\hackos\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
