@@ -33,4 +33,5 @@ Day 24: Using fseek, Binary files, binary using write, reading from file, readin
 
 I'd start learning C++ from scratch, hopefully after 25 days in which I plan to complete C, following the book "Object Oriented Programming with C++" by E. Balagurusamy </br>
 You can purchase the book from: https://www.amazon.in/Object-Oriented-Programming-C-Balagurusamy/dp/9352607996 </br>
-
+</br>
+Day 25: Basic and intro level; </br> 
