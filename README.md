@@ -35,3 +35,4 @@ I'd start learning C++ from scratch, hopefully after 25 days in which I plan to 
 You can purchase the book from: https://www.amazon.in/Object-Oriented-Programming-C-Balagurusamy/dp/9352607996 </br>
 </br>
 Day 25: Basic and intro level; </br> 
+Day 26: Average, Use of class, Multiple outputs; </br>
