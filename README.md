@@ -36,3 +36,4 @@ You can purchase the book from: https://www.amazon.in/Object-Oriented-Programmin
 </br>
 Day 25: Basic and intro level; </br> 
 Day 26: Average, Use of class, Multiple outputs; </br>
+Day 27: Swap, pattern, election problem, enumerators, enum data types, manipulators, generic pointer, new and delete; <\br>
