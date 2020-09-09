@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587486192 source:d:\100_days_of_code\28\few_more_vector_operations\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

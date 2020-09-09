@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587469389 source:d:\100_days_of_code\28\which_string_is_longer\main.cpp
+	<iostream>
+	<string>
+
