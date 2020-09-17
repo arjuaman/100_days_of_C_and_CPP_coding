@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587676788 source:d:\100_days_of_code\29\macros_greatest\main.cpp
+	<iostream>
+	"greatest.h"
+
+1587676489 d:\100_days_of_code\29\macros_greatest\greatest.h
+

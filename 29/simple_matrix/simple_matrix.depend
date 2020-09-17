@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587675496 source:d:\100_days_of_code\29\simple_matrix\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<algorithm>
+

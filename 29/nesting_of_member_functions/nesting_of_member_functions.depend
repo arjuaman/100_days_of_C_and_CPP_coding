@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588001862 source:d:\100_days_of_code\29\nesting_of_member_functions\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

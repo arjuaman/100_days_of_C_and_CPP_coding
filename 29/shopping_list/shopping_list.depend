@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588628309 source:d:\100_days_of_code\29\shopping_list\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
