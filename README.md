@@ -39,3 +39,4 @@ Day 26: Average, Use of class, Multiple outputs; </br>
 Day 27: Swap, pattern, election problem, enumerators, enum data types, manipulators, generic pointer, new and delete; </br>
 Day 28: Vector intro, Inline function, Call by reference - method 1 and 2, Guessing game, String operations;</br>
 Day 29: Classes, Function Overloading, macros, matrices, menu driven using class, static class member, static member function;<br>
+Day 30: Add vectors, Array of objects, bank account, intro to constructors; <br>
