@@ -40,3 +40,4 @@ Day 27: Swap, pattern, election problem, enumerators, enum data types, manipulat
 Day 28: Vector intro, Inline function, Call by reference - method 1 and 2, Guessing game, String operations;</br>
 Day 29: Classes, Function Overloading, macros, matrices, menu driven using class, static class member, static member function;<br>
 Day 30: Add vectors, Array of objects, bank account, intro to constructors; <br>
+Day 31: Constructor overloading, Copy constructor, Destructors, Dynamic constructors, Dynamic initialization of objects, Matrix objects; <br>
