@@ -42,3 +42,4 @@ Day 29: Classes, Function Overloading, macros, matrices, menu driven using class
 Day 30: Add vectors, Array of objects, bank account, intro to constructors; <br>
 Day 31: Constructor overloading, Copy constructor, Destructors, Dynamic constructors, Dynamic initialization of objects, Matrix objects; <br>
 Day 32: Dereferencing operators, Friend function, friend function call by reference, matrix mul, objects as arguments, returning objects, vector class; <br>
+Day 33: Add two complex numbers by overloading operator, data conversions, linked list, overloading subscript, overloading multiply and I/O, overloading on strings, overloading point to member operator, unary minus overloading, using friend function to add two complex by overloading;<br>
