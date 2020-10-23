@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592290788 source:d:\100_days_of_code\34\8_6\main.cpp
+	<iostream>
+	<math.h>
+	<cstring>
+
