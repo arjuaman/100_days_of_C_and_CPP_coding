@@ -45,3 +45,4 @@ Day 32: Dereferencing operators, Friend function, friend function call by refere
 Day 33: Add two complex numbers by overloading operator, data conversions, linked list, overloading subscript, overloading multiply and I/O, overloading on strings, overloading point to member operator, unary minus overloading, using friend function to add two complex by overloading;<br>
 Day 34: QnA; <br>
 Day 35: QnA, Ambiguity resolution multiple inheritance, constructors in derived class, hybrid inheritance, initialization list in constructors; <br>
+Day 36: Dereferencing operators, Friend function; <br>
