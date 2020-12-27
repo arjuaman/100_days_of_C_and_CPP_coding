@@ -48,3 +48,4 @@ Day 35: QnA, Ambiguity resolution multiple inheritance, constructors in derived 
 Day 36: Dereferencing operators, Friend function; <br>
 Day 37: Member classes - nesting of classes, multilevel inheritance, multiple inheritance, single private inheritance, single public inheritance , virtual base class;<br>
 Day 38:Arithmetic operations on pointers, array of pointer to objects, arrays of pointers, manipulation of pointers, example of using pointers, pointers to derived class, pointers to functions ;<br>
+Day 39: Stock buy and sell, Grid unique path, Global and local inversions, FLoyd Warshall Algo;<br>
