@@ -50,3 +50,4 @@ Day 37: Member classes - nesting of classes, multilevel inheritance, multiple in
 Day 38:Arithmetic operations on pointers, array of pointer to objects, arrays of pointers, manipulation of pointers, example of using pointers, pointers to derived class, pointers to functions ;<br>
 Day 39: Stock buy and sell, Grid unique path, Global and local inversions, FLoyd Warshall Algo;<br>
 Day 40: 2Sum, 4sum, Count subarray with xor as target, longest subarray with zero sum, longest non-repeating substring;<br>
+Day 41: Exception Handling;<br>

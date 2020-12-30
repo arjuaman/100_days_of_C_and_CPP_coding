@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594915476 source:d:\100_days_of_code\40\catching_class_types_as_exception\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+
