@@ -51,3 +51,4 @@ Day 38:Arithmetic operations on pointers, array of pointer to objects, arrays of
 Day 39: Stock buy and sell, Grid unique path, Global and local inversions, FLoyd Warshall Algo;<br>
 Day 40: 2Sum, 4sum, Count subarray with xor as target, longest subarray with zero sum, longest non-repeating substring;<br>
 Day 41: Exception Handling;<br>
+Day 42: Merge two sorted linked lists, Find middle of ll, Remove nth node from end of ll, Reverse a ll;<br>
