@@ -47,9 +47,10 @@ Day 34: QnA; <br>
 Day 35: QnA, Ambiguity resolution multiple inheritance, constructors in derived class, hybrid inheritance, initialization list in constructors; <br>
 Day 36: Dereferencing operators, Friend function; <br>
 Day 37: Member classes - nesting of classes, multilevel inheritance, multiple inheritance, single private inheritance, single public inheritance , virtual base class;<br>
-Day 38:Arithmetic operations on pointers, array of pointer to objects, arrays of pointers, manipulation of pointers, example of using pointers, pointers to derived class, pointers to functions ;<br>
+Day 38: Arithmetic operations on pointers, array of pointer to objects, arrays of pointers, manipulation of pointers, example of using pointers, pointers to derived class, pointers to functions ;<br>
 Day 39: Stock buy and sell, Grid unique path, Global and local inversions, FLoyd Warshall Algo;<br>
 Day 40: 2Sum, 4sum, Count subarray with xor as target, longest subarray with zero sum, longest non-repeating substring;<br>
 Day 41: Exception Handling;<br>
 Day 42: Merge two sorted linked lists, Find middle of ll, Remove nth node from end of ll, Reverse a ll;<br>
 Day 43: Minimum arrows to burst balloons, n meetings in one room, Number of combinations that make an amount; <br>
+Day 44: Remove Duplicates 2, Minimum coin change, Find a Corresponding Node of a Binary Tree in a Clone of That Tree, Can form array;<br>
