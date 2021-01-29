@@ -54,3 +54,4 @@ Day 41: Exception Handling;<br>
 Day 42: Merge two sorted linked lists, Find middle of ll, Remove nth node from end of ll, Reverse a ll;<br>
 Day 43: Minimum arrows to burst balloons, n meetings in one room, Number of combinations that make an amount; <br>
 Day 44: Remove Duplicates 2, Minimum coin change, Find a Corresponding Node of a Binary Tree in a Clone of That Tree, Can form array;<br>
+Day 45: Check unequal strings, Get maximum in generated array, String find, Valid parenthesis;<br>
