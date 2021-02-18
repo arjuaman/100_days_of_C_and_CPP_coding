@@ -1,0 +1,67 @@
+Save the world
+Thanos's son Thane has attacked our planet. Avengers have one weapon named Xcross which is kept inside a box and the box is locked. Avengers have K
+ keys and on every key, a password is printed. There is a password 
+S
+ which Dr. Banner has got in his research. According to Dr. Banner, the box will only open if any prefix of 
+S
+ matches with any of the passwords of 
+K
+ keys.
+
+You have to tell Avengers can save the world or not.
+
+Note: String 
+S
+ and passwords that are printed on every key contains lowercase Latin letters.
+
+Input format
+The first line contains two space-separated integers 
+N
+ denoting the length of 
+S
+ and 
+K
+ denoting the total number of keys.
+The second line contains 
+S
+.
+The third line contains 
+K
+ strings denoting the password of every key.
+Output format
+Print "Yes"(without quotes) if Avengers can save the world otherwise print "No" (without quotes).
+
+Constraints
+1
+≤
+N
+≤
+10
+4
+
+1
+≤
+K
+≤
+10
+3
+
+1
+≤
+ ​length of password printed on keys
+≤
+N
+￼
+
+Time limit
+1
+ ​se
+
+Example
+Input
+5 3
+xrups
+tcr prd xru
+
+Output
+Yes
