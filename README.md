@@ -1,4 +1,4 @@
-# 100 days of code challenge
+g 100 days of code challenge
 ## C
 
 I'd start by revising my knowledge of C programming, following the book "Programming in C" by Reema Thareja </br> 
@@ -56,3 +56,4 @@ Day 43: Minimum arrows to burst balloons, n meetings in one room, Number of comb
 Day 44: Remove Duplicates 2, Minimum coin change, Find a Corresponding Node of a Binary Tree in a Clone of That Tree, Can form array;<br>
 Day 45: Check unequal strings, Get maximum in generated array, String find, Valid parenthesis;<br>
 Day 46: Graph intro, Thanos son, Simplify Path, Reverse a string ;<br>
+Day 47: Convert BST to Greater tree, Ordering frequency, Rearrange Characters, Valid Anagram, Shortest distance from reference point; <br>
