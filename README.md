@@ -59,3 +59,4 @@ Day 46: Graph intro, Thanos son, Simplify Path, Reverse a string ;<br>
 Day 47: Convert BST to Greater tree, Ordering frequency, Rearrange Characters, Valid Anagram, Shortest distance from reference point; <br>
 Day 48: Bishu and his girlfriend; Minimum Remove to Make Valid Parentheses; Number of connected components; Number of Steps to Reduce a Number to Zero; Spirally traversing a matrix; <br>
 Day 49: Integer to Roman, Carvans, Coin FLip, Factorial(trailing zeros), Laddu, Lapindromes, Smartphone;<br>
+Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
