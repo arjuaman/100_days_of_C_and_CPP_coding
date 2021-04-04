@@ -61,3 +61,4 @@ Day 48: Bishu and his girlfriend; Minimum Remove to Make Valid Parentheses; Numb
 Day 49: Integer to Roman, Carvans, Coin FLip, Factorial(trailing zeros), Laddu, Lapindromes, Smartphone;<br>
 Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
 Day 51: (LEETCODE and CODECHEF problems) Weight balance, Chessboard Square, Maximum money, Socks, Bolt, Strong sentence, Pawri meme;<br>
+Day 52: Sentence Similarity 3 (Leetcode), Codeforces: 4A, 71A, 1A, 231A, 158A ;<br>
