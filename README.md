@@ -62,3 +62,4 @@ Day 49: Integer to Roman, Carvans, Coin FLip, Factorial(trailing zeros), Laddu, 
 Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
 Day 51: (LEETCODE and CODECHEF problems) Weight balance, Chessboard Square, Maximum money, Socks, Bolt, Strong sentence, Pawri meme;<br>
 Day 52: Sentence Similarity 3 (Leetcode), Codeforces: 4A, 71A, 1A, 231A, 158A ;<br>
+Day 53: Insert Interval, Same Tree, Climbing stairs, Codeforcs: 50A, 118A, 282A, 112A, 263A;<br>
