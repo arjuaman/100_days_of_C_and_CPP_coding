@@ -1,4 +1,3 @@
-g 100 days of code challenge
 ## C
 
 I'd start by revising my knowledge of C programming, following the book "Programming in C" by Reema Thareja </br> 
@@ -63,3 +62,5 @@ Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometr
 Day 51: (LEETCODE and CODECHEF problems) Weight balance, Chessboard Square, Maximum money, Socks, Bolt, Strong sentence, Pawri meme;<br>
 Day 52: Sentence Similarity 3 (Leetcode), Codeforces: 4A, 71A, 1A, 231A, 158A ;<br>
 Day 53: Insert Interval, Same Tree, Climbing stairs, Codeforcs: 50A, 118A, 282A, 112A, 263A;<br>
+Day 54: Virus Outbreak, Prime Game, Codeforces:339A, 281A, 266A, 236A, 96A;<br>
+Day 55: Components in a graph, Difference btn primes  in range, isSubsequence, Codeforces: 617A, 977A, 791A, 546A, 69A;<br>
