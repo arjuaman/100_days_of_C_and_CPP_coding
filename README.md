@@ -66,3 +66,4 @@ Day 54: Virus Outbreak, Prime Game, Codeforces:339A, 281A, 266A, 236A, 96A;<br>
 Day 55: Components in a graph, Difference btn primes  in range, isSubsequence, Codeforces: 617A, 977A, 791A, 546A, 69A;<br>
 Day 56: Valid Palindrome, Reverse String, Equinox, Coldplay, Heaven, Solubility;<br>
 Day 57: Unique paths in grid, Unique permutations of integer array, Very long binary strings addition, Game Of Coin, Sum of n, Total Paths In Grid;<br>
+Day 58: Correct capitalization, Add binary, Longest Common prefix, Valid palindrome with removal, Valid Anagram;<br>
