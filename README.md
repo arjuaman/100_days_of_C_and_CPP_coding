@@ -67,3 +67,4 @@ Day 55: Components in a graph, Difference btn primes  in range, isSubsequence, C
 Day 56: Valid Palindrome, Reverse String, Equinox, Coldplay, Heaven, Solubility;<br>
 Day 57: Unique paths in grid, Unique permutations of integer array, Very long binary strings addition, Game Of Coin, Sum of n, Total Paths In Grid;<br>
 Day 58: Correct capitalization, Add binary, Longest Common prefix, Valid palindrome with removal, Valid Anagram;<br>
+Day 59: First Unique Character, Spot the Difference, Intersection of Numbers, Uncommon words, Merge Linked List; <br>
