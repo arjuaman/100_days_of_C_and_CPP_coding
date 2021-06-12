@@ -58,14 +58,14 @@ Day 46: Graph intro, Thanos son, Simplify Path, Reverse a string ;<br>
 Day 47: Convert BST to Greater tree, Ordering frequency, Rearrange Characters, Valid Anagram, Shortest distance from reference point; <br>
 Day 48: Bishu and his girlfriend; Minimum Remove to Make Valid Parentheses; Number of connected components; Number of Steps to Reduce a Number to Zero; Spirally traversing a matrix; <br>
 Day 49: Integer to Roman, Carvans, Coin FLip, Factorial(trailing zeros), Laddu, Lapindromes, Smartphone;<br>
-Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
+Day 50: Binary Matrix path, Chef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
 Day 51: (LEETCODE and CODECHEF problems) Weight balance, Chessboard Square, Maximum money, Socks, Bolt, Strong sentence, Pawri meme;<br>
 Day 52: Sentence Similarity 3 (Leetcode), Codeforces: 4A, 71A, 1A, 231A, 158A ;<br>
 Day 53: Insert Interval, Same Tree, Climbing stairs, Codeforcs: 50A, 118A, 282A, 112A, 263A;<br>
 Day 54: Virus Outbreak, Prime Game, Codeforces:339A, 281A, 266A, 236A, 96A;<br>
 Day 55: Components in a graph, Difference btn primes  in range, isSubsequence, Codeforces: 617A, 977A, 791A, 546A, 69A;<br>
 
-## C++/Java/Python
+## C++/Java/Python/JS/TS 🥴
 
 Day 56: Valid Palindrome, Reverse String, Equinox, Coldplay, Heaven, Solubility;<br>
 Day 57: Unique paths in grid, Unique permutations of integer array, Very long binary strings addition, Game Of Coin, Sum of n, Total Paths In Grid;<br>
