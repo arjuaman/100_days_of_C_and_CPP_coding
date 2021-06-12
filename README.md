@@ -72,3 +72,4 @@ Day 57: Unique paths in grid, Unique permutations of integer array, Very long bi
 Day 58: Correct capitalization, Add binary, Longest Common prefix, Valid palindrome with removal, Valid Anagram;<br>
 Day 59: First Unique Character, Spot the Difference, Intersection of Numbers, Uncommon words, Merge Linked List; <br>
 Day 60: Remove nth from node, remove linkedlist element, Middle of linked list, Contains cycle, return cycle point, reverse linked list, postfix;<br>
+Day 61: Validate String, Compare keystrokes, Remove adjacent duplicates, Call Counter, Moving average;<br>
