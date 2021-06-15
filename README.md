@@ -73,3 +73,4 @@ Day 58: Correct capitalization, Add binary, Longest Common prefix, Valid palindr
 Day 59: First Unique Character, Spot the Difference, Intersection of Numbers, Uncommon words, Merge Linked List; <br>
 Day 60: Remove nth from node, remove linkedlist element, Middle of linked list, Contains cycle, return cycle point, reverse linked list, postfix;<br>
 Day 61: Validate String, Compare keystrokes, Remove adjacent duplicates, Call Counter, Moving average;<br>
+Day 62: Maximum Units on a Truck, Effective Fibonacci Number, Last digit of fibonacci number, GCD, LCM;<br>
