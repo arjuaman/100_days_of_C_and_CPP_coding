@@ -1,13 +1,13 @@
 ## C
 
-I'd start by revising my knowledge of C programming, following the book "Programming in C" by Reema Thareja </br> 
+I'd start by revising my knowledge of C programming, following the book "Programming in C" by Reema Thareja </br>
 Purchase from: https://www.amazon.in/Programming-C-Reema-Thareja/dp/0199456143 </br>
 
 Day 1: Area of triangle; Euclidean distance between two points; </br>
 Day 2: ASCII value of character; Ternary operator; Upper to lower; </br>
 Day 3: Company and bonus menu-driven; easy chapter exercises; greatest of n numbers; nested loops patterns; use of sizeof; </br>
 Day 4: Decimal to octal conversion, Decimal to binary conversion, Reverse ofa number, Factorial of a number, Prime or Composite, No. of primes or composite, Patterns; </br>
-Day 5: Armstrong number, Call by reference, call by value, GCD, Sum of series 1, Sum of series 2; </br> 
+Day 5: Armstrong number, Call by reference, call by value, GCD, Sum of series 1, Sum of series 2; </br>
 Day 6: Function chapter starts; </br>
 Day 7: Exponents using recursion, fibonacci using recursion, gcd using recursion, factorial using recursion, Tower of Hanoi; </br>
 Day 8: Array operations, Array manipulation, interchange smallest and largest numbers, mean of n numbers in array; </br>
@@ -33,7 +33,7 @@ Day 24: Using fseek, Binary files, binary using write, reading from file, readin
 I'd start learning C++ from scratch, hopefully after 25 days in which I plan to complete C, following the book "Object Oriented Programming with C++" by E. Balagurusamy </br>
 You can purchase the book from: https://www.amazon.in/Object-Oriented-Programming-C-Balagurusamy/dp/9352607996 </br>
 </br>
-Day 25: Basic and intro level; </br> 
+Day 25: Basic and intro level; </br>
 Day 26: Average, Use of class, Multiple outputs; </br>
 Day 27: Swap, pattern, election problem, enumerators, enum data types, manipulators, generic pointer, new and delete; </br>
 Day 28: Vector intro, Inline function, Call by reference - method 1 and 2, Guessing game, String operations;</br>
@@ -58,14 +58,14 @@ Day 46: Graph intro, Thanos son, Simplify Path, Reverse a string ;<br>
 Day 47: Convert BST to Greater tree, Ordering frequency, Rearrange Characters, Valid Anagram, Shortest distance from reference point; <br>
 Day 48: Bishu and his girlfriend; Minimum Remove to Make Valid Parentheses; Number of connected components; Number of Steps to Reduce a Number to Zero; Spirally traversing a matrix; <br>
 Day 49: Integer to Roman, Carvans, Coin FLip, Factorial(trailing zeros), Laddu, Lapindromes, Smartphone;<br>
-Day 50: Binary MAtrix path, CHef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
+Day 50: Binary Matrix path, Chef and street food, Compilers and parsers, Geometric possibility, Infix to Postfix, Insertion SOrt, Job Sequencing, Bubble sort;<br>
 Day 51: (LEETCODE and CODECHEF problems) Weight balance, Chessboard Square, Maximum money, Socks, Bolt, Strong sentence, Pawri meme;<br>
 Day 52: Sentence Similarity 3 (Leetcode), Codeforces: 4A, 71A, 1A, 231A, 158A ;<br>
 Day 53: Insert Interval, Same Tree, Climbing stairs, Codeforcs: 50A, 118A, 282A, 112A, 263A;<br>
 Day 54: Virus Outbreak, Prime Game, Codeforces:339A, 281A, 266A, 236A, 96A;<br>
 Day 55: Components in a graph, Difference btn primes  in range, isSubsequence, Codeforces: 617A, 977A, 791A, 546A, 69A;<br>
 
-## C++/Java/Python
+## C++/Java/Python/JS/TS 🥴
 
 Day 56: Valid Palindrome, Reverse String, Equinox, Coldplay, Heaven, Solubility;<br>
 Day 57: Unique paths in grid, Unique permutations of integer array, Very long binary strings addition, Game Of Coin, Sum of n, Total Paths In Grid;<br>
