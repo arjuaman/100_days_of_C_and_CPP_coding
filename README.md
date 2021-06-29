@@ -77,3 +77,4 @@ Day 62: Maximum Units on a Truck, Effective Fibonacci Number, Last digit of fibo
 Day 63: Stack using queue, Find value, is Same tree?, Lowest Common Ancestor, Minimum absolute difference in a BST;<br>
 Day 64: Mode of binary tree, Gather levels, max value in each level, Binary Tree right side view, bottom view ;<br>
 Day 65: Root to leaf path, Root to leaf path sum, Zigzag traversal of trees, N-ary tree level order traversal, Fenwick Tree;<br>
+Day 66: Candy(Hard), Same leaves;<br>
