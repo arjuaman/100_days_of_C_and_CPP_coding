@@ -79,4 +79,4 @@ Day 64: Mode of binary tree, Gather levels, max value in each level, Binary Tree
 Day 65: Root to leaf path, Root to leaf path sum, Zigzag traversal of trees, N-ary tree level order traversal, Fenwick Tree;<br>
 Day 66: Candy(Hard), Same leaves, Max consecutive ones, Sum of left leaves;<br>
 Day 67: Word Search, Gold Rush, Reshape the matrix, Unique Combination;<br>
-Day 68: Maximum length of repeated subarray, Reduce array size to the half, Boats to save people;<br>
+Day 68: Maximum length of repeated subarray, Reduce array size to the half, Boats to save people, Last Stone Weight;<br>
