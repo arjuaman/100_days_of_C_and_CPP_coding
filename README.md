@@ -81,3 +81,4 @@ Day 66: Candy(Hard), Same leaves, Max consecutive ones, Sum of left leaves;<br>
 Day 67: Word Search, Gold Rush, Reshape the matrix, Unique Combination;<br>
 Day 68: Maximum length of repeated subarray, Reduce array size to the half, Boats to save people, Last Stone Weight;<br>
 Day 69:Lemonade Change, Find median from data stream, count good meals, Longest Increasing subsequence;<br>
+Day 70:Find Peak Element, Making Change, Min cost climbing stairs, predict the winner;<br>
