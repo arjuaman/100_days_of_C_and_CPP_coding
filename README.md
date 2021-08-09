@@ -85,4 +85,4 @@ Day 70:Find Peak Element, Making Change, Min cost climbing stairs, predict the w
 Day 71: Galton board, Lowest COmmon ancestor-java, reverse nodes in k group-java, Shuffle the array- C++ random_shuffle as well as Fisher-Yates Algorithm;<br>
 Day 72: Edit distance, Longest common subsequence, Maximum subarray, Partition array into disjoint intervals;<br>
 Day 73: 01 matrix, House robber, Making a large island, Two sum - all approaches, including one with DuplicateMap;<br>
-Day 74: Subset, Subset-2 (Non-duplicate), Path Sum II; <br>
+Day 74: Subset, Subset-2 (Non-duplicate), Path Sum II, IsSubsequence; <br>
