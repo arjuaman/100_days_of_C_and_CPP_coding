@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define n 10
+#define n 4
 
 void slamLocker(vector<bool> &arr, int m){
     for(int i=m;i<n;i+=(m+1)){
@@ -14,7 +14,7 @@ int main(){
         slamLocker(arr,i);
     }
 
-    for(auto i:arr){
+    for(bool i:arr){
         cout<<i<<" ";
     }
 
