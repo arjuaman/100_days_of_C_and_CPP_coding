@@ -86,4 +86,5 @@ Day 71: Galton board, Lowest COmmon ancestor-java, reverse nodes in k group-java
 Day 72: Edit distance, Longest common subsequence, Maximum subarray, Partition array into disjoint intervals;<br>
 Day 73: 01 matrix, House robber, Making a large island, Two sum - all approaches, including one with DuplicateMap;<br>
 Day 74: Subset, Subset-2 (Non-duplicate), Path Sum II, IsSubsequence; <br>
-Day 75: Add Strings ;<br>
+Day 75: Add Strings, Flip String to Monotone Increasing, Buggy Software, Facebook phone screen locker/ Gym Locker
+ ;<br>
