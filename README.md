@@ -87,4 +87,4 @@ Day 72: Edit distance, Longest common subsequence, Maximum subarray, Partition a
 Day 73: 01 matrix, House robber, Making a large island, Two sum - all approaches, including one with DuplicateMap;<br>
 Day 74: Subset, Subset-2 (Non-duplicate), Path Sum II, IsSubsequence; <br>
 Day 75: Add Strings, Flip String to Monotone Increasing, Buggy Software, Facebook phone screen locker/ Gym Locker, Bulb switcher;<br>
-Day 76: Missing number, Array of Doubled Pairs;<br>
+Day 76: Missing number, Array of Doubled Pairs, Art Gallery Thief (based on 0-1 knapsack);<br>
