@@ -1,0 +1,12 @@
+Reverse Vowels
+
+
+This question is asked by Facebook. Given a string, reverse the vowels of it.
+Note: In this problem y is not considered a vowel.
+
+Ex: Given the following strings s…
+
+s = "computer", return "cemputor"
+Ex: Given the following strings s…
+
+s = "The Daily Byte", return "The Dialy Byte"
