@@ -90,3 +90,4 @@ Day 75: Add Strings, Flip String to Monotone Increasing, Buggy Software, Faceboo
 Day 76: Missing number, Array of Doubled Pairs, Art Gallery Thief (based on 0-1 knapsack), Count good nodes in a binary tree;<br>
 Day 77: Complementary Number, TRIE implementation, Finding Friends, Counting Primes, Iterative Inorder Traversal;<br>
 Day 78: Reverse Vowels, Reap Children, Print Anagrams Together, Count number of substrings with exactly k distinct characters, Sum of Square Numbers, ;<br>
+Day 79: Graph bfs, dfs, Longest uncommon subsequence, Application ques of connected components, Defanging IPs;<br>
