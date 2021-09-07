@@ -92,3 +92,4 @@ Day 77: Complementary Number, TRIE implementation, Finding Friends, Counting Pri
 Day 78: Reverse Vowels, Reap Children, Print Anagrams Together, Count number of substrings with exactly k distinct characters, Sum of Square Numbers, ;<br>
 Day 79: Graph bfs, dfs, Longest uncommon subsequence, Application ques of connected components, Defanging IPs;<br>
 Day 80: Minimize Path, Distance to Rabbit Holes, Hamming Distance, Move Zeros, Travel to Points;<br>
+Day 81: Binary Number with Alternating Bits, Is Monotonic, Keyboard Row, Maximum Depth of N-ary Tree, Reverse Integer, Sort Array By Parity II;<br>
