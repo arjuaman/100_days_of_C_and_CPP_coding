@@ -93,3 +93,4 @@ Day 78: Reverse Vowels, Reap Children, Print Anagrams Together, Count number of 
 Day 79: Graph bfs, dfs, Longest uncommon subsequence, Application ques of connected components, Defanging IPs;<br>
 Day 80: Minimize Path, Distance to Rabbit Holes, Hamming Distance, Move Zeros, Travel to Points;<br>
 Day 81: Binary Number with Alternating Bits, Is Monotonic, Keyboard Row, Maximum Depth of N-ary Tree, Reverse Integer, Sort Array By Parity II;<br>
+Day 82: Contains Duplicate 2, Divisible digits, Island perimeter of pond size, Range sum of BST, Subtree of another tree;<br>
