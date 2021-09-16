@@ -94,3 +94,4 @@ Day 79: Graph bfs, dfs, Longest uncommon subsequence, Application ques of connec
 Day 80: Minimize Path, Distance to Rabbit Holes, Hamming Distance, Move Zeros, Travel to Points;<br>
 Day 81: Binary Number with Alternating Bits, Is Monotonic, Keyboard Row, Maximum Depth of N-ary Tree, Reverse Integer, Sort Array By Parity II;<br>
 Day 82: Contains Duplicate 2, Divisible digits, Island perimeter of pond size, Range sum of BST, Subtree of another tree;<br>
+Day 83: Insert into a Binary Search Tree, K Closest Points to Origin, List Sum, Length of Last Word, Product of Array Except Self, Reverse Words in a String;<br>
