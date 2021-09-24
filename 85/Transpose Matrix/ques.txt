@@ -1,0 +1,17 @@
+Transpose Matrix
+
+
+Given a 2D integer array matrix, return the transpose of matrix.
+
+The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
+Ex: Given the following matrix nums…
+
+nums = [
+  [1, 2],
+  [3, 4]
+]
+return a matrix that looks as follows...
+[
+  [1,3],
+  [2,4]
+]

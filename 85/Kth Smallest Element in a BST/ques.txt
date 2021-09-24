@@ -1,0 +1,16 @@
+Kth Smallest Element in a BST
+
+
+Given the root of a binary search tree, and an integer k, return the kth (1-indexed) smallest element in the tree.
+Ex: Given the following binary search tree and value k…
+
+    3
+   / \
+  2   4, k = 1, return 2.
+Ex: Given the following binary search tree and value k…
+
+    7
+   / \
+  3   9
+   \
+    5, k = 3, return 7.
