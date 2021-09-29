@@ -1,0 +1,28 @@
+Given a 2D array each cells can have one of three values. Zero represents an empty cell, one represents 
+a healthy person,  and two represents a sick person. Each minute that passes, any healthy person who 
+is adjacent to a sick person becomes sick. 
+Return the total number of minutes that must elapse until every person is sick.
+Note: If it is not possible for each person to become sick, return -1.
+
+0->empty
+1->healthy
+2->sick
+
+Ex: Given the following 2D array grid…
+
+grid = [
+    [1,1,1],
+    [1,1,0],
+    [0,1,2]
+], return 4.
+[2, 1] becomes sick at minute 1.
+[1, 1] becomes sick at minute 2. 
+[1, 0] and [0, 1] become sick at minute 3.
+[0, 0] and [0, 2] become sick at minute 4.
+Ex: Given the following 2D array grid…
+
+grid = [
+    [1,1,1],
+    [0,0,0],
+    [2,0,1]
+], return -1.
