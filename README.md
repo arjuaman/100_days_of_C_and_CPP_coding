@@ -97,3 +97,4 @@ Day 82: Contains Duplicate 2, Divisible digits, Island perimeter of pond size, R
 Day 83: Insert into a Binary Search Tree, K Closest Points to Origin, List Sum, Length of Last Word, Product of Array Except Self, Reverse Words in a String;<br>
 Day 84: Possible Bipartition, Binary Tree Pruning, Third Maximum numbers, Tree Paths, Maximum Length of a Concatenated String with Unique Characters;<br>
 Day 85: Kth smallest element in a BST, Transpose Matrix;<br>
+day 86: Tree Pair Sum, Unique Email Address, Top K frequent words, Longest substring without repetition;<br>
