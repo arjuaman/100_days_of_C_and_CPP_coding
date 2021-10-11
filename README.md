@@ -98,3 +98,4 @@ Day 83: Insert into a Binary Search Tree, K Closest Points to Origin, List Sum, 
 Day 84: Possible Bipartition, Binary Tree Pruning, Third Maximum numbers, Tree Paths, Maximum Length of a Concatenated String with Unique Characters;<br>
 Day 85: Kth smallest element in a BST, Transpose Matrix, Infection, Odd even linked list, Remove loop in linked list, Check for BST;<br>
 Day 86: Tree Pair Sum, Unique Email Address, Top K frequent words, Longest substring without repetition, Top K Frequent Words;<br>
+Day 87: Crack the Code;<br>

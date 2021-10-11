@@ -1,0 +1,21 @@
+Crack the Code
+
+
+Given a string s and a string code, return whether or not s could have been encrypted using the pattern represented in code.
+
+Example 1:
+
+Input: pattern = "abba", s = "dog cat cat dog"
+Output: true
+Example 2:
+
+Input: pattern = "abba", s = "dog cat cat fish"
+Output: false
+Example 3:
+
+Input: pattern = "aaaa", s = "dog cat cat dog"
+Output: false
+Example 4:
+
+Input: pattern = "abba", s = "dog dog dog dog"
+Output: false
