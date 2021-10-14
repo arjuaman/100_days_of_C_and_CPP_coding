@@ -13,3 +13,9 @@ https://www.amazon.jobs/en/landing_pages/in-person-interview
 https://leetcode.com/problems/keys-and-rooms/
 
 https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/
+
+https://leetcode.com/problems/minimum-number-of-refueling-stops/discuss/149839/DP-O(N2)-and-Priority-Queue-O(NlogN)
+
+https://leetcode.com/problems/cousins-in-binary-tree/discuss/240081/Java-easy-to-understand-and-clean-solution
+
+https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1?utm_source=gfgpractice&utm_medium=banner&utm_campaign=Practice_Explore_POD_Top_Banner
