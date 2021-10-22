@@ -1,0 +1,8 @@
+Trailing Zeroes
+
+
+Given an integer A, count and return the number of trailing zeroes.
+
+18 in binary is represented as: 10010, there is 1 trailing zero.
+
+ 8 in binary is represented as: 1000, there are 3 trailing zeroes.
