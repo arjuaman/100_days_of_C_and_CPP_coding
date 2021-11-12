@@ -101,4 +101,5 @@ Day 86: Tree Pair Sum, Unique Email Address, Top K frequent words, Longest subst
 Day 87: Crack the Code, Maximum Value of the Loot, Power of 3, Intersection Point in Y Shapped Linked Lists, Get minimum element from stack;<br>
 Day 88: Delete without head pointer, Check if One String Swap Can Make Strings Equal, Remove Value, Car Fueling, Collecting Signatures;<br>
 Day 89: Diameter of binary Tree, Nth tribonacci number, Number of 1 bits, Swap all odd and even bits, Trailing zeroes;<br>
-Day 90: Binary search tree to greater sum tree, House robber, Plus one;<br>
+Day 90: Binary search tree to greater sum tree, House robber, Plus one, Palindrome linked list, intersection of two ll, Maximum number of prizes;<br>
+Day 91: Maximum Salary, Minimum index sum of two lists;<br>
