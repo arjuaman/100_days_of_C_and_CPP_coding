@@ -1,0 +1,11 @@
+Roman to Integer
+
+
+Given a string, s, that represents a Roman numeral, return its associated integer value.
+Note: You may assume that each string represents a valid Roman numeral and its value will not exceed one thousand.
+Ex: Given the following string s...
+
+s = "DCLII", return 652.
+Ex: Given the following string s...
+
+s = "VIII", return 8.
