@@ -1,0 +1,10 @@
+Our goal is to make all numbers on the same step.
+Rather than move n-1 numbers up every time, why not just move one number down?
+
+so the problem is simple:
+
+find the min
+move other numbers down to min.
+number of moves = nums[0]-min + nums[1]-min + .... +nums[n]-min = sum - n * min
+
+just another way to think of the magic equation.
