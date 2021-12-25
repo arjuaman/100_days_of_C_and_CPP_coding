@@ -1,3 +1,11 @@
+https://leetcode.com/problems/rectangle-overlap/
+https://leetcode.com/problems/stone-game/
+https://leetcode.com/problems/stone-game/discuss/154610/DP-or-Just-return-truehttps://leetcode.com/problems/minimum-cost-to-merge-stones/discuss/247567/JavaC%2B%2BPython-DP
+https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
+https://explore.skillbuilder.aws/learn/signin
+
+
 https://www.quora.com/What-are-some-flight-baggage-hacks
 https://www.quora.com/What-does-web-check-in-mean-in-the-airport
 
