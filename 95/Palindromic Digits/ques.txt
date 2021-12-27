@@ -1,0 +1,12 @@
+Palindromic Digits
+
+
+Given a positive integer, num, return whether or not it forms a palindrome.
+Note: You may not transform the number into a string.
+
+Ex: Given the following num…
+
+num = 12321, return true.
+Ex: Given the following num…
+
+num = 5393, return false.

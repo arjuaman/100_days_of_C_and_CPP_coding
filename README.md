@@ -106,3 +106,4 @@ Day 91: Maximum Salary, Minimum index sum of two lists, Add digits, Find all num
 Day 92: Insert Value, Merge Intervals, N-ary tree postorder traversal-recursively and iteratively, Roman to Integer, Subarray sum equals K;<br>
 Day 93: Base 7, Licese Key Formatting, Minimum moves to equal array elements, Plus to minus, Remove duplicates from sorted array;<br>
 Day 94: Count Binary Substrings, Remove duplicates from sorted linked list, Maximum nesting depth of Parenthesis, Find all anagrams in a string;<br>
+Day 95: Increasing Subsequences, Longest Continuous Increasing Subsequence/Subarray, Palindromic digits, Reverse Only Letters;<br>

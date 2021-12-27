@@ -1,0 +1,12 @@
+Longest Continuous Increasing Subsequence_or_Subarray
+
+
+Given an integer array, nums, return the length of the longest increasing subarray.
+Note: The subarray must be strictly increasing.
+
+Ex: Given the following nums.
+
+nums = [1, 2, 3], return 3.
+Ex: Given the following nums.
+
+nums = [3, 4, 1, 2, 8], return 3.
