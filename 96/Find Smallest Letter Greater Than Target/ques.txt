@@ -1,0 +1,11 @@
+Find Smallest Letter Greater Than Target
+
+
+Given a sorted character array, letters, and a character, target, return the smallest character in letters that is strictly larger than target.
+Note: Letters wrap around. If target is ’y’ and letters contains ’c’ and ’d’, return ’c’.
+Ex: Given the following letters and target…
+
+letters = ['a', 'b', 'c'], target = 'b', return 'c'.
+Ex: Given the following letters and target…
+
+letters = ['r', 'y'], target = 'z', return 'r'.
