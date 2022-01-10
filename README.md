@@ -107,3 +107,4 @@ Day 92: Insert Value, Merge Intervals, N-ary tree postorder traversal-recursivel
 Day 93: Base 7, Licese Key Formatting, Minimum moves to equal array elements, Plus to minus, Remove duplicates from sorted array;<br>
 Day 94: Count Binary Substrings, Remove duplicates from sorted linked list, Maximum nesting depth of Parenthesis, Find all anagrams in a string;<br>
 Day 95: Increasing Subsequences, Longest Continuous Increasing Subsequence/Subarray, Palindromic digits, Reverse Only Letters;<br>
+Day 96: Check if its a staright line, Find smallest letter greater than target, Longest palindrome, Minimum absolute difference, Shuffle string;<br>
