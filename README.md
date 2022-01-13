@@ -108,3 +108,4 @@ Day 93: Base 7, Licese Key Formatting, Minimum moves to equal array elements, Pl
 Day 94: Count Binary Substrings, Remove duplicates from sorted linked list, Maximum nesting depth of Parenthesis, Find all anagrams in a string;<br>
 Day 95: Increasing Subsequences, Longest Continuous Increasing Subsequence/Subarray, Palindromic digits, Reverse Only Letters;<br>
 Day 96: Check if its a staright line, Find smallest letter greater than target, Longest palindrome, Minimum absolute difference, Shuffle string;<br>
+Day 97: Array pairs, Check if n and its double exist, Find numbers with even number of digits, Maximum average subarray (sliding window), Sum of all odd length subarrays;<br>
