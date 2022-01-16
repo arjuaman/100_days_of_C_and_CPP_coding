@@ -109,3 +109,5 @@ Day 94: Count Binary Substrings, Remove duplicates from sorted linked list, Maxi
 Day 95: Increasing Subsequences, Longest Continuous Increasing Subsequence/Subarray, Palindromic digits, Reverse Only Letters;<br>
 Day 96: Check if its a staright line, Find smallest letter greater than target, Longest palindrome, Minimum absolute difference, Shuffle string;<br>
 Day 97: Array pairs, Check if n and its double exist, Find numbers with even number of digits, Maximum average subarray (sliding window), Sum of all odd length subarrays;<br>
+Day 98: Convert a number to hexadecimal, Count the number of consistent strings, Invert binary tree, Matrix diagonal Sum, Partition equal subset sum;<br>
+Day 99: Three consecutive odds;<br>
