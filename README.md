@@ -110,4 +110,4 @@ Day 95: Increasing Subsequences, Longest Continuous Increasing Subsequence/Subar
 Day 96: Check if its a staright line, Find smallest letter greater than target, Longest palindrome, Minimum absolute difference, Shuffle string;<br>
 Day 97: Array pairs, Check if n and its double exist, Find numbers with even number of digits, Maximum average subarray (sliding window), Sum of all odd length subarrays;<br>
 Day 98: Convert a number to hexadecimal, Count the number of consistent strings, Invert binary tree, Matrix diagonal Sum, Partition equal subset sum;<br>
-Day 99: Three consecutive odds;<br>
+Day 99: Find pivot index, Find the middle index in array, Longest common subsequence of three sequences, Merge two binary trees, Three consecutive odds;<br>
