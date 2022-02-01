@@ -1,0 +1,11 @@
+Subtract the Product and Sum of Digits of an Integer
+
+
+Given an integer, n, return the difference between the product and sum of its digits.
+
+Ex: Given the following n…
+
+n = 321, return 0 ((3 * 2 * 1) - (3 + 2 + 1).
+Ex: Given the following n…
+
+n = 56, return 19.

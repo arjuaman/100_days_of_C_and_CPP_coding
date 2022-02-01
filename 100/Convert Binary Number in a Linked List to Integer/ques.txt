@@ -1,0 +1,11 @@
+Convert Binary Number in a Linked List to Integer
+
+
+Given a binary number represented as a linked list, return its decimal value.
+
+Ex: Given the following linked list…
+
+1 -> 0 -> 0 -> 1, return 9 (1001 in decimal is 9).
+Ex: Given the following linked list…
+
+0 -> 0 -> 1, return 1.
