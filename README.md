@@ -114,4 +114,4 @@ Day 99: Find pivot index, Find the middle index in array, Longest common subsequ
 Day 100: Convert Binary Number in a linked list to integer, Maximum gold (0-1 knapsack), Maximum product of two elements in an array, N-ary tree preorder traversal, Subtract the produt and sum of digits of an integer, Partitioning Souvenirs (3-way partition);<br>
 Day 101: Chocolate feast, DI String Match, Long pressed name, Sort integers by the number of 1 bits, Partition array into three parts with equal sum;<br>
 Day 102: Add to array-form of integer, Cousins in binary tree, FInd all lonely numbers in the array, Greatest sum divisible by three, Maximum 69 number, Perfect number;<br>
-Day 103: Find N Unique Integers Sum up to Zero, Sort Array by Increasing Frequency;<br>
+Day 103: Find N Unique Integers Sum up to Zero, Sort Array by Increasing Frequency, Find Words That Can Be Formed by Characters, Unique Number of Occurrences;<br>
