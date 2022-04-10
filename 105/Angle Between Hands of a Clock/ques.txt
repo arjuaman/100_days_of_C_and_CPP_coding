@@ -1,0 +1,11 @@
+Angle Between Hands of a Clock
+
+
+Given two numbers, hour and minutes, return the smaller angle (in degrees) formed between the hour and the minute hand.
+Answers within 10-5 of the actual value will be accepted as correct.
+
+Ex: Given the following hours and minutes...
+hours = 12, minutes = 0, return 0 (the hands are on top of each other).
+
+Ex: Given the following hours and minutes...
+hours = 3, minutes = 25, return 47.5.

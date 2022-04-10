@@ -1,0 +1,18 @@
+Deepest Leaves Sum
+
+
+Given the root of a binary tree, return the sum of values of its deepest leaves.
+
+Ex: Given the following tree…
+
+      2
+     / \
+    4   5, return 9 (4 and 5 are at the deepest level and sum to 9).
+	
+Ex: Given the following tree…
+
+      1
+       \
+        2
+         \
+          3, return 3.
