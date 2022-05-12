@@ -120,4 +120,4 @@ Day 105: Linked List in Binary Tree, Angle Between Hands of a Clock, Count Serve
 Day 106: Count Negative Numbers in a Sorted Matrix, Relative Sort Array, Rotated Digits, Longest String Chain, Non-overlapping Intervals;<br>
 Day 107: Minimum Value to Get Positive Step by Step Sum, Image Smoother, Valid Perfect Square, Arranging Coins, Flood Fill;<br>
 Day 108: Non-decreasing Array, Number of Closed Islands, Path Crossing, Decode String, Divide Array in Sets of K Consecutive Numbers;<br>
-Day 109: Minimum Increment to Make Array Unique, Check if Array Is Sorted and Rotated;<br>
+Day 109: Minimum Increment to Make Array Unique, Check if Array Is Sorted and Rotated, Longest ZigZag Path in a Binary Tree;<br>
