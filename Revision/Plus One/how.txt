@@ -1,0 +1,5 @@
+Appended 1 at end
+if(not 10 at end) then no carry hence return
+if(10 at end)
+
+then reversed the list and added 1 to next until 10 is not encountered, and if list runs out, append 1
