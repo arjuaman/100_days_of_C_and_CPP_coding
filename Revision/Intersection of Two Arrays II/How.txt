@@ -1,0 +1,25 @@
+We sorted the arrays.
+Then the common elements were pushed to answer array. 
+
+nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+
+sorted num1 -> [4,5,9]
+sorted nums2-? [4,4,8,9,9]
+				^
+				|
+                pushed
+				
+ans =4;
+
+sorted num1 -> [5,9]      -> 5,9    -> 9      ->9
+sorted nums2-? [4,8,9,9]  -> 8,9,9  -> 8,9,9  ->9,9
+                                                ^
+												|
+											  pushed
+ans = [4,9];
+
+sorted num1 -> []
+sorted nums2-> [9]
+
+DOne when one empty.
+				
