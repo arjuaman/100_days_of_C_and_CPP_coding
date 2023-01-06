@@ -1,0 +1,29 @@
+## QUESTION ##
+https://leetcode.com/problems/maximum-subarray/
+
+## ANSWER ##
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int sum = 0, maxSum = nums[0];
+        if(nums.size()==1) return maxSum;
+        for(int i=0;i<nums.size();i++){
+            sum += nums[i];
+            
+            if(sum>maxSum)
+                maxSum = sum;
+            if(sum<0)
+                sum = 0;
+            
+        }
+        
+        return maxSum;
+    }
+};
+
+## HOW? ##
+
+To calculate sum(0,i), you have 2 choices: either adding sum(0,i-1) to a[i], or not. 
+If sum(0,i-1) is negative, adding it to a[i] will only make a smaller sum, so we add only if it's non-negative.
+
+sum(0,i) = a[i] + (sum(0,i-1) < 0 ? 0 : sum(0,i-1))
